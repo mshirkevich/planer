@@ -1,0 +1,77 @@
+@font-face {
+    font-family: 'PT Sans Narrow';
+    src: url('fonts/PTSans-Narrow.eot');
+    src: url('fonts/PTSans-Narrow.eot?#iefix') format('embedded-opentype'),
+        url('fonts/PTSans-Narrow.woff2') format('woff2'),
+        url('fonts/PTSans-Narrow.woff') format('woff'),
+        url('fonts/PTSans-Narrow.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PT Sans Narrow';
+    src: url('fonts/PTSans-NarrowBold.eot');
+    src: url('fonts/PTSans-NarrowBold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/PTSans-NarrowBold.woff2') format('woff2'),
+        url('fonts/PTSans-NarrowBold.woff') format('woff'),
+        url('fonts/PTSans-NarrowBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto Slab';
+    src: url('fonts/RobotoSlab-Bold.eot');
+    src: url('fonts/RobotoSlab-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/RobotoSlab-Bold.woff2') format('woff2'),
+        url('fonts/RobotoSlab-Bold.woff') format('woff'),
+        url('fonts/RobotoSlab-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto Slab';
+    src: url('fonts/RobotoSlab-Light.eot');
+    src: url('fonts/RobotoSlab-Light.eot?#iefix') format('embedded-opentype'),
+        url('fonts/RobotoSlab-Light.woff2') format('woff2'),
+        url('fonts/RobotoSlab-Light.woff') format('woff'),
+        url('fonts/RobotoSlab-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Pobeda';
+    src: url('fonts/Pobeda-Bold.eot');
+    src: url('fonts/Pobeda-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Pobeda-Bold.woff2') format('woff2'),
+        url('fonts/Pobeda-Bold.woff') format('woff'),
+        url('fonts/Pobeda-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Pobeda';
+    src: url('fonts/Pobeda-Regular.eot');
+    src: url('fonts/Pobeda-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Pobeda-Regular.woff2') format('woff2'),
+        url('fonts/Pobeda-Regular.woff') format('woff'),
+        url('fonts/Pobeda-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto Slab';
+    src: url('fonts/RobotoSlab-Regular.eot');
+    src: url('fonts/RobotoSlab-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/RobotoSlab-Regular.woff2') format('woff2'),
+        url('fonts/RobotoSlab-Regular.woff') format('woff'),
+        url('fonts/RobotoSlab-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
